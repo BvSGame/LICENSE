@@ -3,6 +3,8 @@ Information about the licenses used in the repositories of this project
 
 ## By default: GNU AGPL-3.0
 
+[Wikipedia](https://en.wikipedia.org/wiki/GNU_Affero_General_Public_License) ︱ [Official website](https://www.gnu.org/licenses/agpl-3.0.html)
+
 The code of this project is open source wherever possible. Yes, AGPL is restrictive (compared to Apache, MIT and even LGPL), but we're not interested in supporting proprietary derivative projects. If we open source code of a project we are working hard on, you should open source code too.
 
 ## Exceptions are possible
